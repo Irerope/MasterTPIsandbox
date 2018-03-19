@@ -66,7 +66,7 @@ function echo_trad_section($i,&$a)
 	{
 	$loc= "eng_UK";
 	$loc= "en_GB.utf8";
-	$loc = getString("trad".$i."Lang",$a);
+	$loc = getString("trad".$i."_Lang",$a);
 	}
 
 setlocale(LC_ALL, $loc);
