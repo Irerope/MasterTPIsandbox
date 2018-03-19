@@ -1,5 +1,6 @@
+
 <?php
-$juices = array("apple", "orange", "koolaid1" => "purple");
+$juices = array("manzana", "naranga", "koolaid1" => "purple");
 
 class people {
     public $john = "John Smith";
@@ -12,7 +13,7 @@ $people = new people();
 
 
 
-echo "El $people->john drank $juices[0].".PHP_EOL;
+echo "El $people->john bebió un zumo de $juices[0].".PHP_EOL;
 echo strftime ("%A, %e %G %g");
 
 
