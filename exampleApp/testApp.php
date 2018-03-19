@@ -74,8 +74,8 @@ echo "<p>Locale: $loc";
 $tradid="trad".$i;
 $a->numTrad=$i;
 //$a->lang=locale
-echo 	'<IMG WIDTH="100" src="'.getString("Head_".$tradid."FlagURL",$a).'" align="LEFT"/>';
-echo	"<p>".getString("Head_".$tradid."Credits", $a);
+echo 	'<IMG WIDTH="100" src="'.getString("Head_".$tradid."_FlagURL",$a).'" align="LEFT"/>';
+echo	"<p>".getString("Head_".$tradid."_Credits", $a);
 //echo	"<H1>".getString($tradid."Greeting",$a)."</H1>";
 //echo	"<p>".getString($tradid."FormatDate",$a)."</p>";
 //echo	"<p>".getString($tradid."NumString",$a)."</p>";
@@ -83,7 +83,7 @@ echo	"<p>".getString("Head_".$tradid."Credits", $a);
 //var_dump($string);
 foreach ($string as $key => $value) {
 	//echo "<p>$key=".strpos($key, $tradid);
-	if (strpos($key, $tradid)===0)
+	if (strpos($key, ($tradid . '_') )===0)
 	{
 		echo    "<p>".getString($key,$a)."</p>";
 	}
