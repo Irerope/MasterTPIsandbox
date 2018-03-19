@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 error_reporting(-1);
 ini_set("display_errors", 1);
 include ("i18nlib.php");
@@ -66,6 +66,7 @@ function echo_trad_section($i,&$a)
 	{
 	$loc= "eng_UK";
 	$loc= "en_GB.utf8";
+	$loc = getString("trad".$i."_Lang",$a);
 	}
 
 setlocale(LC_ALL, $loc);
@@ -73,8 +74,8 @@ echo "<p>Locale: $loc";
 $tradid="trad".$i;
 $a->numTrad=$i;
 //$a->lang=locale
-echo 	'<IMG WIDTH="100" src="'.getString("Head_".$tradid."FlagURL",$a).'" align="LEFT"/>';
-echo	"<p>".getString("Head_".$tradid."Credits", $a);
+echo 	'<IMG WIDTH="100" src="'.getString("Head_".$tradid."_FlagURL",$a).'" align="LEFT"/>';
+echo	"<p>".getString("Head_".$tradid."_Credits", $a);
 //echo	"<H1>".getString($tradid."Greeting",$a)."</H1>";
 //echo	"<p>".getString($tradid."FormatDate",$a)."</p>";
 //echo	"<p>".getString($tradid."NumString",$a)."</p>";
@@ -82,7 +83,7 @@ echo	"<p>".getString("Head_".$tradid."Credits", $a);
 //var_dump($string);
 foreach ($string as $key => $value) {
 	//echo "<p>$key=".strpos($key, $tradid);
-	if (strpos($key, $tradid)===0)
+	if (strpos($key, ($tradid . '_') )===0)
 	{
 		echo    "<p>".getString($key,$a)."</p>";
 	}
