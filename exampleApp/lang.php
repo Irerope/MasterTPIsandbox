@@ -20,12 +20,12 @@ $string['trad0ejemploTres'] = '';
  * Cuidado con cometer fallos de síntaxis pues se estropeará todo el fichero y no se verá el resultado en la Web.
  */
 $string['trad1Lang'] = 'en_US.utf8';
-$string['trad1Greeting'] = 'Welcome to the work of the translator $a-> numTrad published at $a-> time';
+$string['trad1Greeting'] = 'Welcome to the work of the translator $a->numTrad published at $a->time';
 $string['trad1Author'] = 'This text has been written by Juan Pablo de Castro';
-$string['trad1FormatDate'] = 'Today is ".strftime ("%A,%d of %B of %Y ", $a-> rawTime)." and the week begins.';
-$string['trad1NumString'] = 'Completing a collection of stickers of the league costs $a-> amount €';
+$string['trad1FormatDate'] = 'Today is ".strftime ("%A,%d of %B of %Y ", $a->rawTime)." and the week begins.';
+$string['trad1NumString'] = 'Completing a collection of stickers of the league costs $a->amount €';
 $string['trad1CurrencyString'] = 'Completing a league sticker collection costs ".number_format ($a->amount, 2)." euros';
-$string['trad1Message'] = 'I could have done another, but Mr. $ a-> user_surname has done it again. Viva $a->user_name $a->user_surname!';
+$string['trad1Message'] = 'I could have done another, but Mr. $a->user_surname has done it again. Viva $a->user_name $a->user_surname!';
 $string['Head_trad1Credits'] = '(C)".strftime("%Y")." Juan Pablo de Castro Fernández';
 $string['Head_trad1FlagURL'] = 'http://www.banderas-del-mundo.com/Espana/con_escudo/spain_lc.gif';
 $string['trad1ejemploUno'] = '';
