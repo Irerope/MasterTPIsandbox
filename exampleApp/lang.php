@@ -60,8 +60,8 @@ $string['trad3_ejemploTres'] = 'I will see him $a->time';
 
 $string['trad4_Lang'] = 'en_GB.utf8';
 $string['trad4_Greeting'] = 'Welcome to the work of the translator $a->numTrad published at $a->time';
-$string['trad4_Author'] = '';
-$string['trad4_FormatDate'] = '';
+$string['trad4_Author'] = 'This text has been written by María José Cambero';
+$string['trad4_FormatDate'] = 'Today is ".strftime ("%A,%d of %B of %Y ", $a->rawTime)." and the week is beginning.';
 $string['trad4_NumString'] = '';
 $string['trad4_CurrencyString'] = '';
 $string['trad4_Message'] = '';
@@ -73,8 +73,8 @@ $string['trad4_ejemploTres'] = '';
 
 $string['trad5_Lang'] = 'en_GB.utf8';
 $string['trad5_Greeting'] =	'Welcome to the work of the translator $a->numTrad published at $a->time';
-$string['trad5_Author'] = '';
-$string['trad5_FormatDate'] = '';
+$string['trad5_Author'] = 'This text has been written by Ana Redondo';
+$string['trad5_FormatDate'] = 'Today is ".strftime ("%A,%d of %B of %Y ", $a->rawTime)." and the week is is about to start.';
 $string['trad5_NumString'] = '';
 $string['trad5_CurrencyString'] = '';
 $string['trad5_Message'] = '';
