@@ -47,13 +47,13 @@ $string['trad2_ejemploTres'] = 'You are reading this text at $a->time of ".strft
 
 $string['trad3_Lang'] = 'en_UK.utf8';
 $string['trad3_Greeting'] = 'Welcome to the work of the translator $a->numTrad published at $a->time';
-$string['trad3_Author'] = 'This text has been written by Cristina García Aguilar';
+$string['trad3_Author'] = 'Cristina García Aguilar has written this text.';
 $string['trad3_FormatDate'] = 'Today is ".strftime("%A ,%d of %B of %Y",$a->rawTime)." and the week starts.';
 $string['trad3_NumString'] = 'Completing a league sticker collection costs $a->amount €';
 $string['trad3_CurrencyString'] = 'Completing a league sticker collection costs  ".number_format($a->amount,2)." euros.';
-$string['trad3_Message'] = 'It could have been done by anyone, but Mr. $a->user_surname has gotten it back. ¡Hurra $a->user_name $a->user_surname!';
-$string['Head_trad3_Credits'] = '(C)".strftime("%Y")." Rocío Barragán';
-$string['Head_trad3_FlagURL'] = 'http://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif';
+$string['trad3_Message'] = 'Mr. $a->user_surname has gotten it back even if it could have been done by anyone. ¡Hurra $a->user_name $a->user_surname!';
+$string['Head_trad3_Credits'] = '(C)".strftime("%Y")."Cristina García Aguilar';
+$string['Head_trad3_FlagURL'] = '<a href="http://www.gifsanimados.org/cat-bandera-de-gran-bretana-771.htm"><img src="http://www.gifsanimados.org/data/media/771/bandera-de-gran-bretana-imagen-animada-0026.gif" border="0" alt="bandera-de-gran-bretana-imagen-animada-0026" /></a>';
 $string['trad3_ejemploUno'] = 'Mr. $a->user_surname has an important meeting on ".strftime("%m/%d/%Y")." .';
 $string['trad3_ejemploDos'] = 'He earns $a->amount €';
 $string['trad3_ejemploTres'] = 'I will see him $a->time';
