@@ -28,9 +28,9 @@ $string['trad1_CurrencyString'] = 'Completing a league sticker collection costs 
 $string['trad1_Message'] = 'I could have done another, but Mr. $a->user_surname has done it again. Life for $a->user_name $a->user_surname!';
 $string['Head_trad1_Credits'] = '(C)".strftime("%Y")." José Manuel Toquero Martín';
 $string['Head_trad1_FlagURL'] = 'http://www.banderas-del-mundo.com/America_del_norte/EEUU/Americanas/fa_in_01.gif';
-$string['trad1_ejemploUno'] = 'I like playing soccer with my friends twice a week at $a->time'; 
-$string['trad1_ejemploDos'] = 'I really enjoy singing hip hop music at weekends';
-$string['trad1_ejemploTres'] = 'I believe that these examples are useful for everybody';
+$string['trad1_ejemploUno'] = 'I like going to the cinema with my friends. It only costs $a->amount €'; 
+$string['trad1_ejemploDos'] = 'I will be singing hip hop music the following week'. date('Y-m-d') ."\n";';
+$string['trad1_ejemploTres'] = 'I believe that these examples have done at $a->time';
 
 $string['trad2_Lang'] = 'en_UK.utf8';
 $string['trad2_Greeting'] =	'Welcome to the work of the translator $a->numTrad published at $a->time.';
