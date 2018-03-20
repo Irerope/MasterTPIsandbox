@@ -68,7 +68,7 @@ $string['trad4_Message'] = 'It could have been done by anyone, but Mr. $a->user_
 $string['Head_trad4_Credits'] = '(C)".strftime("%Y")." María José Cambero Sánchez';
 $string['Head_trad4_FlagURL'] = 'http://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif';
 $string['trad4_ejemploUno'] = 'Next ".strftime ("%A, %B, %Y")." I will go to a conference in New York.';
-$string['trad4_ejemploDos'] = 'My mother thinks that ".number_format($a->amount,5)." for this trainers is too expensive.';
+$string['trad4_ejemploDos'] = 'My mother thinks that ".number_format($a->amount,7)." euros for this trainers is too expensive.';
 $string['trad4_ejemploTres'] = 'Every Monday at $a->time we have English classes.';
 
 $string['trad5_Lang'] = 'en_GB.utf8';
@@ -82,7 +82,7 @@ $string['Head_trad5_Credits'] = '(C)".strftime("%Y")." Ana Redondo';
 $string['Head_trad5_FlagURL'] = 'http://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif';
 $string['trad5_ejemploUno'] = 'Mr. $a->user_surname has a difficult exam on ".strftime("%m/%l/%Y")." .';
 $string['trad5_ejemploDos'] = 'The exam stats at $a->time';
-$string['trad5_ejemploTres'] = 'I will pay you $a->amount € if you drive me to the school';
+$string['trad5_ejemploTres'] = 'I will pay you $a->amount euros if you drive me to the school';
 
 $string['trad6_Lang'] = 'en_UK.utf8';
 $string['trad6_Greeting'] =	'Welcome to the work of the translator $a-->numTrad published at $a->time';
