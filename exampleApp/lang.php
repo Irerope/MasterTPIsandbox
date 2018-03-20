@@ -52,11 +52,11 @@ $string['trad3_FormatDate'] = 'Today is ".strftime("%A ,%d of %B of %Y",$a->rawT
 $string['trad3_NumString'] = 'Completing a league sticker collection costs $a->amount €';
 $string['trad3_CurrencyString'] = 'Completing a league sticker collection costs  ".number_format($a->amount,2)." euros.';
 $string['trad3_Message'] = 'Mr. $a->user_surname has gotten it back even if it could have been done by anyone. ¡Hurra $a->user_name $a->user_surname!';
-$string['Head_trad3_Credits'] = '(C)".strftime("%Y")."Cristina García Aguilar';
+$string['Head_trad3_Credits'] = '(C)".strftime("%Y")." Cristina García Aguilar';
 $string['Head_trad3_FlagURL'] = 'http://www.gifsanimados.org/data/media/771/bandera-de-gran-bretana-imagen-animada-0026.gif';
-$string['trad3_ejemploUno'] = 'Mr. $a->user_surname has an important meeting on ".strftime("%m/%d/%Y")." .';
-$string['trad3_ejemploDos'] = 'He earns $a->amount €';
-$string['trad3_ejemploTres'] = 'I will see him $a->time';
+$string['trad3_ejemploUno'] = 'Mrs. $a->user_surname plays lottery every ".strftime("%A")." .';
+$string['trad3_ejemploDos'] = 'The other day, at $a->time while she was hearing the news she saw she was the winner.';
+$string['trad3_ejemploTres'] = 'I am very jealous because she has won $a->amount euros. ';
 
 $string['trad4_Lang'] = 'en_GB.utf8';
 $string['trad4_Greeting'] = 'Welcome to the work of the translator $a->numTrad published at $a->time';
