@@ -32,22 +32,8 @@ $string['trad1_ejemploUno'] = '';
 $string['trad1_ejemploDos'] = '';
 $string['trad1_ejemploTres'] = '';
 
-<<<<<<< HEAD
-$string['trad2Lang'] = 'en_UK.utf8';
-$string['trad2Greeting'] =	'Welcome to the work of the translator $a->numTrad published at $a->time';
-$string['trad1Author'] = 'This text has been written by Juan Pablo de Castro';
-$string['trad2FormatDate'] = 'Today is ".strftime("%A ,%d of %B, %Y",$a->rawTime)." and the week begins.';
-$string['trad2NumString'] = 'To complete a football ligue cards collection costs $a->amount €';
-$string['trad2CurrencyString'] = 'To complete a ligue cards collection costs ".number_format($a->amount,2)." euros.';
-$string['trad2Message'] = 'Other could have done it, but mr $a->user_surname has done it again. ¡Hurrah $a->user_name $a->user_surname!';
-$string['Head_trad2Credits'] = '(C)".strftime("%Y")." Juan Pablo de Castro Fernández';
-$string['Head_trad2FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/inglesas/inglaterra.gif';
-$string['trad2ejemploUno'] = 'I won $a->amount € in the lottery ';
-$string['trad2ejemploDos'] = 'He was born the ".strftime("%e of %b of %G")."';
-$string['trad2ejemploTres'] = 'I will be dancing with my partners at $a->time';
-=======
-$string['trad2_Lang'] = 'en_GB.utf8';
-$string['trad2_Greeting'] = 'Welcome to the work of the translator $a->numTrad published at $a->time';
+$string['trad2_Lang'] = 'en_UK.utf8';
+$string['trad2_Greeting'] =	'Welcome to the work of the translator $a->numTrad published at $a->time';
 $string['trad2_Author'] = 'This text has been written by Juan Pablo de Castro';
 $string['trad2_FormatDate'] = 'Today is ".strftime("%A ,%d of %B, %Y",$a->rawTime)." and the week begins.';
 $string['trad2_NumString'] = 'To complete a football ligue cards collection costs $a->amount €';
@@ -58,7 +44,6 @@ $string['Head_trad2_FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea
 $string['trad2_ejemploUno'] = 'I won $a->amount € in the lottery ';
 $string['trad2_ejemploDos'] = 'He was born the ".strftime("%e of %b of %G")."';
 $string['trad2_ejemploTres'] = 'I will be dancing with my partners at $a->time';
->>>>>>> a4f6647082f163430aea61149bc5f1cf549c2f5a
 
 $string['trad3_Lang'] = 'en_UK.utf8';
 $string['trad3_Greeting'] = 'Welcome to the work of the translator $a->numTrad published at $a->time';
