@@ -1,13 +1,13 @@
 ﻿<?php
-$string['pageTitle'] = 'Bienvenidos a la página de traducción de PHP';
+$string['pageTitle'] = 'Welcome to the PHP translation page';
 
 $string['trad0_Lang'] = 'es_ES.utf8';
-$string['trad0_Greeting'] = 'Bienvenido al trabajo del traductor $a->numTrad publicado a las $a->time';
-$string['trad0_Author'] = 'Este texto ha sido redactado por Juan Pablo de Castro';
-$string['trad0_FormatDate'] = 'Hoy es ".strftime("%A, %d de %B de %Y",$a->rawTime)." y ya empieza la semana.';
-$string['trad0_NumString'] = 'Completar una colección de cromos de la liga cuesta $a->amount €';
-$string['trad0_CurrencyString'] = 'Completar una colección de cromos de la liga cuesta ".number_format($a->amount,2)." euros.';
-$string['trad0_Message'] = 'Podría haberlo hecho otro, pero el señor $a->user_surname lo ha vuelto a conseguir. ¡Viva $a->user_name $a->user_surname!';
+$string['trad0_Greeting'] = 'Welcome to the work of the translator $a->numTrad publshed at $a->time';
+$string['trad0_Author'] = 'This text has beed written by Juan Pablo de Castro';
+$string['trad0_FormatDate'] = 'Today is ".strftime("%A, %d of %B of %Y",$a->rawTime)." and the week beginning.';
+$string['trad0_NumString'] = 'Completing a colletion of stickers of the league costs $a->amount €';
+$string['trad0_CurrencyString'] = 'Completing a league sticker collection costs ".number_format($a->amount,2)." euros.';
+$string['trad0_Message'] = 'I could have done another, but Mr. $a->user_surname has done it again. ¡Life for $a->user_name $a->user_surname!';
 $string['Head_trad0_Credits'] = '(C)".strftime("%Y")." Juan Pablo de Castro Fernández';
 $string['Head_trad0_FlagURL'] = 'http://www.banderas-del-mundo.com/Espana/con_escudo/spain_lc.gif';
 $string['trad0_ejemploUno'] = '';
@@ -84,18 +84,18 @@ $string['trad5_ejemploUno'] = 'Mr. $a->user_surname has a difficult exam on ".st
 $string['trad5_ejemploDos'] = 'The exam stats $a->time';
 $string['trad5_ejemploTres'] = 'I will pay you $a->amount € if you drive me to the school';
 
-$string['trad6_Lang'] = '';
-$string['trad6_Greeting'] =	'';
-$string['trad6_Author'] = '';
-$string['trad6_FormatDate'] = '';
-$string['trad6_NumString'] = '';
-$string['trad6_CurrencyString'] = '';
-$string['trad6_Message'] = '';
-$string['Head_trad6_Credits'] = '';
-$string['Head_trad6_FlagURL'] = '';
-$string['trad6_ejemploUno'] = '';
-$string['trad6_ejemploDos'] = '';
-$string['trad6_ejemploTres'] = '';
+$string['trad6_Lang'] = 'en_UK.utf8';
+$string['trad6_Greeting'] =	'Welcome to the work of the translator $a-->numTrad published at $a->time';
+$string['trad6_Author'] = 'This text has been written by Zhao Zhili';
+$string['trad6_FormatDate'] = 'Today is ".strftime("%A, %d of %B, %Y",$a->rawTime)." and the week beginning.';
+$string['trad6_NumString'] = 'Completing a colletion of stickers of the league costs $a->amount €';
+$string['trad6_CurrencyString'] = 'Completing a league sticker collection costs".number_format($a->amount,10)." euros.';
+$string['trad6_Message'] = 'I could have done another, but Mr. $a->user_surname has done it again. ¡Life for $a->user_name $a->user_surname!';
+$string['Head_trad6_Credits'] = '(C)".strftime("%Y")." ZHAO ZHILI';
+$string['Head_trad6_FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/inglesas/inglaterra.gif';
+$string['trad6_ejemploUno'] = 'This is $a->time';
+$string['trad6_ejemploDos'] = 'This is costs $a->amount €';
+$string['trad6_ejemploTres'] = 'Today is ".strftime("%A, %d of %B, %G",$a->rawTime)';
 
 $string['trad7_Lang'] = '';
 $string['trad7_Greeting'] =	'';
