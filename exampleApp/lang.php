@@ -81,7 +81,7 @@ $string['trad5_Message'] = 'It could have been done by anyone, but Mr. $a->user_
 $string['Head_trad5_Credits'] = '(C)".strftime("%Y")." Ana Redondo';
 $string['Head_trad5_FlagURL'] = 'http://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif';
 $string['trad5_ejemploUno'] = 'Mr. $a->user_surname has a difficult exam on ".strftime("%m/%l/%Y")." .';
-$string['trad5_ejemploDos'] = 'The exam stats $a->time';
+$string['trad5_ejemploDos'] = 'The exam stats at $a->time';
 $string['trad5_ejemploTres'] = 'I will pay you $a->amount € if you drive me to the school';
 
 $string['trad6_Lang'] = '';
