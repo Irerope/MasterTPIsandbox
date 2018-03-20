@@ -95,7 +95,7 @@ $string['Head_trad6_Credits'] = '(C)".strftime("%Y")." ZHAO ZHILI';
 $string['Head_trad6_FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/inglesas/inglaterra.gif';
 $string['trad6_ejemploUno'] = 'This is $a->time';
 $string['trad6_ejemploDos'] = 'This is costs $a->amount €';
-$string['trad6_ejemploTres'] = 'Today is ".strftime("%A, %d of %B, %G",$a->rawTime)';
+$string['trad6_ejemploTres'] = 'Today is ".strftime("%A, %d of %B, %G",$a->rawTime")';
 
 $string['trad7_Lang'] = '';
 $string['trad7_Greeting'] =	'';
