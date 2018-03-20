@@ -67,9 +67,9 @@ $string['trad4_CurrencyString'] = 'Completing a league sticker collection costs 
 $string['trad4_Message'] = 'It could have been done by anyone, but Mr. $a->user_surname achieved it again. ¡Hurrah $a->user_name $a->user_surname!';
 $string['Head_trad4_Credits'] = '(C)".strftime("%Y")." María José Cambero Sánchez';
 $string['Head_trad4_FlagURL'] = 'http://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif';
-$string['trad4_ejemploUno'] = '';
-$string['trad4_ejemploDos'] = '';
-$string['trad4_ejemploTres'] = '';
+$string['trad4_ejemploUno'] = 'Next Monday, ".strftime ("%l, %F, %Y",) I will go to a conference in New York.';
+$string['trad4_ejemploDos'] = 'My mother thinks that $a->amount € for this trainers is too expensive.';
+$string['trad4_ejemploTres'] = 'Every Monday at $a->time we have English classes.';
 
 $string['trad5_Lang'] = 'en_GB.utf8';
 $string['trad5_Greeting'] =	'Welcome to the work of the translator $a->numTrad published at $a->time';
