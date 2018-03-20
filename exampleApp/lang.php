@@ -31,7 +31,7 @@ $string['trad1ejemploUno'] = '';
 $string['trad1ejemploDos'] = '';
 $string['trad1ejemploTres'] = '';
 
-$string['trad2Lang'] = 'en_GB.utf8';
+$string['trad2Lang'] = 'en_UK.utf8';
 $string['trad2Greeting'] =	'Welcome to the work of the translator $a->numTrad published at $a->time';
 $string['trad1Author'] = 'This text has been written by Juan Pablo de Castro';
 $string['trad2FormatDate'] = 'Today is ".strftime("%A ,%d of %B, %Y",$a->rawTime)." and the week begins.';
