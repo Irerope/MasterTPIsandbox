@@ -98,7 +98,7 @@ $string['trad6_ejemploDos'] = 'This is costs $a->amount €';
 $string['trad6_ejemploTres'] = 'Today is ".strftime("%A, %d of %B, %G",$a->rawTime)';
 
 $string['trad7_Lang'] = 'en_UK.utf8';
-$string['trad7_Greeting'] =	'Bienvenido al trabajo del traductor 0 publicado a las 17:47:33';
+$string['trad7_Greeting'] =	'Bienvenido al trabajo del traductor $a->numTrad publicado a las $a->time';
 $string['trad7_Author'] = 'Este texto ha sido escrito por Anna Khodorenko';
 $string['trad7_FormatDate'] = 'Today is ".strftime ("%A, %d of %B of %Y ", $a->rawTime)." and the week is beginning.';
 $string['trad7_NumString'] = 'Completing a league sticker collection costs $a->amount €';
