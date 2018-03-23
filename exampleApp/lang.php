@@ -16,8 +16,8 @@ $string['trad0_ejemploTres'] = '';
 
 /**
  * Crear todas las claves de arriba de forma ordenada y sin estropear el trabajo de los demÃ¡s compaÃ±eros.
- * EstÃ¡ permitido cambiar los textos libremente y experimentar con formas alternativas de conseguir los mismos objetivos.
- * Cuidado con cometer fallos de sÃ­ntaxis pues se estropearÃ¡ todo el fichero y no se verÃ¡ el resultado en la Web.
+ * Está permitido cambiar los textos libremente y experimentar con formas alternativas de conseguir los mismos objetivos.
+ * Cuidado con cometer fallos de sÃ­ntaxis pues se estropeará todo el fichero y no se verá el resultado en la Web.
  */
 $string['trad1_Lang'] = 'en_US.utf8';
 $string['trad1_Greeting'] = 'Welcome to the work of the translator $a->numTrad published at $a->time';
@@ -28,7 +28,7 @@ $string['trad1_CurrencyString'] = 'Completing a league sticker collection costs 
 $string['trad1_Message'] = 'I could have done another, but Mr. $a->user_surname has done it again. Life for $a->user_name $a->user_surname!';
 $string['Head_trad1_Credits'] = '(C)".strftime("%Y")." José Manuel Toquero Martín';
 $string['Head_trad1_FlagURL'] = 'http://www.banderas-del-mundo.com/America_del_norte/EEUU/Americanas/fa_in_01.gif';
-$string['trad1_ejemploUno'] = 'I like going to the theater with my friends, it only costs $a->amount €'; 
+$string['trad1_ejemploUno'] = 'I like going to the theatre with my friends, it only costs $a->amount €'; 
 $string['trad1_ejemploDos'] = 'I will be reading these examples the ".strftime("%e of %b of %G").".';
 $string['trad1_ejemploTres'] = 'I believe that these sentences have been done at $a->time.';
 
@@ -88,10 +88,10 @@ $string['trad6_Lang'] = 'en_UK.utf8';
 $string['trad6_Greeting'] =	'Welcome to the work of the translator $a->numTrad published at $a->time';
 $string['trad6_Author'] = 'This text has been written by Zhao Zhili';
 $string['trad6_FormatDate'] = 'Today is ".strftime("%A, %d of %B, %Y",$a->rawTime)." and the week beginning.';
-$string['trad6_NumString'] = 'Completing a colletion of stickers of the league costs $a->amount $';
+$string['trad6_NumString'] = 'Completing a collection of stickers of the league costs $a->amount $';
 $string['trad6_CurrencyString'] = 'Completing a league sticker collection costs" .number_format($a->amount,1)." dollar.';
 $string['trad6_Message'] = 'I could have done another, but Mr. $a->user_surname has done it again. Â¡Life for $a->user_name $a->user_surname!';
-$string['trad6_NumString'] = 'Completing a colletion of stickers of the league costs $a->amount $';
+$string['trad6_NumString'] = 'Completing a collection of stickers of the league costs $a->amount $';
 $string['trad6_CurrencyString'] = 'Completing a league sticker collection costs".number_format($a->amount,1)." dollar.';
 $string['trad6_Message'] = 'I could have done another, but Mr. $a->user_surname has done it again. Life for $a->user_name $a->user_surname!';
 $string['Head_trad6_Credits'] = '(C)".strftime("%Y")." ZHAO ZHILI';
@@ -107,7 +107,7 @@ $string['trad7_FormatDate'] = 'Today is ".strftime ("%A, %d of %B of %Y ", $a->r
 $string['trad7_NumString'] = 'Completing a league sticker collection costs $a->amount €';
 $string['trad7_CurrencyString'] = 'Completing a league sticker collection costs  ".number_format($a->amount,2)." euros.';
 $string['trad7_Message'] = 'I could have done another, but Mr. $a->user_surname has done it again. Life for $a->user_name $a->user_surname!';
-$string['Head_trad7_Credits'] = '(C)".strftime("%Y")." ANNA Khodorenko';
+$string['Head_trad7_Credits'] = '(C)".strftime("%Y")." Anna Khodorenko';
 $string['Head_trad7_FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/inglesas/inglaterra.gif';
 $string['trad7_ejemploUno'] = 'I like eating out with friends, it only costs $a->time';
 $string['trad7_ejemploDos'] = 'I accept life as it is';
@@ -135,7 +135,7 @@ $string['trad9_CurrencyString'] = 'Completing a league sticker collection costs 
 $string['trad9_Message'] = 'It could have been done by anyone, but Mr. $a->user_surname achieved it again. Hurrah $a->user_name $a->user_surname!';
 $string['Head_trad9_Credits'] = '(C)".strftime("%Y")."YAN LI';
 $string['Head_trad9_FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/inglesas/inglaterra.gif';
-$string['trad9_ejemploUno'] = 'I cost $a->amount â‚?in the restaraut that at ".strftime("%A of the %W week of %Y").".';
+$string['trad9_ejemploUno'] = 'I cost $a->amount, in the restaurant that at ".strftime("%A of the %W week of %Y").".';
 $string['trad9_ejemploDos'] = 'I think that ".number_format($a->amount,7)." euros for this computer is too expensive.';
 $string['trad9_ejemploTres'] = 'I have my launch at $a->time everyday.';
 
