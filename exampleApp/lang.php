@@ -94,7 +94,7 @@ $string['trad6_Message'] = 'I could have done another, but Mr. $a->user_surname 
 $string['Head_trad6_Credits'] = '(C)".strftime("%Y")." ZHAO ZHILI';
 $string['Head_trad6_FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/inglesas/inglaterra.gif';
 $string['trad6_ejemploUno'] = 'This is $a->time';
-$string['trad6_ejemploDos'] = 'This is costs $a->amount â‚?;
+$string['trad6_ejemploDos'] = 'This is costs $a->amount â€';
 $string['trad6_ejemploTres'] = 'Today is ".strftime("%A, %d of %B, %G")."';
 
 $string['trad7_Lang'] = 'en_UK.utf8';
