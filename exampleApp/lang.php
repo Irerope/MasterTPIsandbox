@@ -87,13 +87,8 @@ $string['trad5_ejemploTres'] = 'I will pay you ".number_format($a->amount,5)." e
 $string['trad6_Lang'] = 'en_UK.utf8';
 $string['trad6_Greeting'] =	'Welcome to the work of the translator $a->numTrad published at $a->time';
 $string['trad6_Author'] = 'This text has been written by Zhao Zhili';
-<<<<<<< HEAD
 $string['trad6_FormatDate'] = 'Today is ".strftime("%A, %d of %B of %Y",$a->rawTime)." and the week beginning.';
 $string['trad6_NumString'] = 'Completing a colletion of stickers of the league costs $a->amount $';
-=======
-$string['trad6_FormatDate'] = 'Today is ".strftime("%A, %d of %B, %Y",$a->rawTime)." and the week beginning.';
-$string['trad6_NumString'] = 'Completing a collection of stickers of the league costs $a->amount $';
->>>>>>> 8e824c57d2384155a98f2249daf72963d7408394
 $string['trad6_CurrencyString'] = 'Completing a league sticker collection costs" .number_format($a->amount,1)." dollar.';
 $string['trad6_Message'] = 'I could have done another, but Mr. $a->user_surname has done it again. Â¡Life for $a->user_name $a->user_surname!';
 $string['trad6_NumString'] = 'Completing a collection of stickers of the league costs $a->amount $';
