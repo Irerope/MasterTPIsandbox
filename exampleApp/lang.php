@@ -1,13 +1,13 @@
 <?php
-$string['pageTitle'] = 'Welcome to the PHP translation page';
+$string['pageTitle'] = 'Bienvenidos a la página de traducción de PHP';
 
-$string['trad0_Lang'] = 'en_US.utf8';
-$string['trad0_Greeting'] = 'Welcome to the work of the translator $a->numTrad published at $a->time';
-$string['trad0_Author'] = 'This text has been written by Juan Pablo de Castro';
-$string['trad0_FormatDate'] = 'Today is".strftime("%A, %d of %B de %Y",$a->rawTime)." and the week begins.';
-$string['trad0_NumString'] = 'Completing a collection of stickers of the league costs $a->amount €';
-$string['trad0_CurrencyString'] = 'Completing a collection of sticker collection costs ".number_format($a->amount,2)." euros.';
-$string['trad0_Message'] = 'I could have done anather, but Mr. $a->user_surname lo ha vuelto a conseguir. ¡Viva $a->user_name $a->user_surname!';
+$string['trad0_Lang'] = 'es_ES.utf8';
+$string['trad0_Greeting'] = 'Bienvenido al trabajo del traductor $a->numTrad publicado a las $a->time';
+$string['trad0_Author'] = 'Este texto ha sido redactado por Juan Pablo de Castro';
+$string['trad0_FormatDate'] = 'Hoy es ".strftime("%A, %d de %B de %Y",$a->rawTime)." y ya empieza la semana.';
+$string['trad0_NumString'] = 'Completar una colección de cromos de la liga cuesta $a->amount €';
+$string['trad0_CurrencyString'] = 'Completar una colección de cromos de la liga cuesta ".number_format($a->amount,2)." euros.';
+$string['trad0_Message'] = 'Podría haberlo hecho otro, pero el señor $a->user_surname lo ha vuelto a conseguir. ¡Viva $a->user_name $a->user_surname!';
 $string['Head_trad0_Credits'] = '(C)".strftime("%Y")." Juan Pablo de Castro FernÃ¡ndez';
 $string['Head_trad0_FlagURL'] = 'http://www.banderas-del-mundo.com/Espana/con_escudo/spain_lc.gif';
 $string['trad0_ejemploUno'] = '';
