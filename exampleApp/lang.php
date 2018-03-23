@@ -85,7 +85,7 @@ $string['trad5_ejemploDos'] = 'The exam stats at $a->time';
 $string['trad5_ejemploTres'] = 'I will pay you $a->amount euros if you drive me to the school';
 
 $string['trad6_Lang'] = 'en_UK.utf8';
-$string['trad6_Greeting'] =	'Welcome to the work of the translator $a-->numTrad published at $a->time';
+$string['trad6_Greeting'] =	'Welcome to the work of the translator $a->numTrad published at $a->time';
 $string['trad6_Author'] = 'This text has been written by Zhao Zhili';
 $string['trad6_FormatDate'] = 'Today is ".strftime("%A, %d of %B, %Y",$a->rawTime)." and the week beginning.';
 $string['trad6_NumString'] = 'Completing a colletion of stickers of the league costs $a->amount €';
@@ -95,7 +95,7 @@ $string['Head_trad6_Credits'] = '(C)".strftime("%Y")." ZHAO ZHILI';
 $string['Head_trad6_FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/inglesas/inglaterra.gif';
 $string['trad6_ejemploUno'] = 'This is $a->time';
 $string['trad6_ejemploDos'] = 'This is costs $a->amount €';
-$string['trad6_ejemploTres'] = 'Today is ".strftime("%A, %d of %B, %G",$a->rawTime")';
+$string['trad6_ejemploTres'] = 'Today is ".strftime("%A, %d of %B, %G")."';
 
 $string['trad7_Lang'] = '';
 $string['trad7_Greeting'] =	'';
