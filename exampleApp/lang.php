@@ -29,7 +29,7 @@ $string['trad1_Message'] = 'I could have done another, but Mr. $a->user_surname 
 $string['Head_trad1_Credits'] = '(C)".strftime("%Y")." José Manuel Toquero Martín';
 $string['Head_trad1_FlagURL'] = 'http://www.banderas-del-mundo.com/America_del_norte/EEUU/Americanas/fa_in_01.gif';
 $string['trad1_ejemploUno'] = 'I like going to the theater with my friends, it only costs $a->amount €'; 
-$string['trad1_ejemploDos'] = 'I will be reading these examples the next echo date("l")'; 
+$string['trad1_ejemploDos'] = 'I will be reading these examples the ".strftime("%e of %b of %G").".';
 $string['trad1_ejemploTres'] = 'I believe that these sentences have been done at $a->time.';
 
 $string['trad2_Lang'] = 'en_UK.utf8';
