@@ -135,7 +135,7 @@ $string['trad9_CurrencyString'] = 'Completing a league sticker collection costs 
 $string['trad9_Message'] = 'It could have been done by anyone, but Mr. $a->user_surname achieved it again. Hurrah $a->user_name $a->user_surname!';
 $string['Head_trad9_Credits'] = '(C)".strftime("%Y")."YAN LI';
 $string['Head_trad9_FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/inglesas/inglaterra.gif';
-$string['trad9_ejemploUno'] = 'I cost $a->amount, in the restaurant that at ".strftime("%A of the %W week of %Y").".';
+$string['trad9_ejemploUno'] = 'I cost $a->amount, in the restaurant that at ".strftime("%A of the %W week of %Y",$a->rawTime).".';
 $string['trad9_ejemploDos'] = 'I think that ".number_format($a->amount,7)." euros for this computer is too expensive.';
 $string['trad9_ejemploTres'] = 'I have my launch at $a->time everyday.';
 
