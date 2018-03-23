@@ -124,8 +124,8 @@ $string['trad8_ejemploDos'] = 'I thinks that $a->amount â‚?for this clothes i
 $string['trad8_ejemploTres'] = 'Everyday at $a->time we have classes.';
 
 $string['trad9_Lang'] = 'en_UK.uf8';
-$string['trad9_Greeting'] =	'Bienvenido al trabajo del traductor $a->numTrad publicado a las $a->time';
-$string['trad9_Author'] = 'Este texto ha sido escrito por YAN LI';
+$string['trad9_Greeting'] =	'Welcome to the work of the translator $a->numTrad published at $a->time ';
+$string['trad9_Author'] = 'This text has been written by YAN LI';
 $string['trad9_FormatDate'] = 'Today is ".strftime ("%A,%d of %B of %Y ", $a->rawTime)." and the week is is about to start.';
 $string['trad9_NumString'] = 'Completing a league sticker collection costs ".number_format($a->amount,5)." euros.';
 $string['trad9_CurrencyString'] = 'Completing a league sticker collection costs  $a->amount €';
