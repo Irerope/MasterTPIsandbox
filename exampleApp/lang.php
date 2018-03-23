@@ -114,11 +114,11 @@ $string['trad7_ejemploDos'] = 'I accept life as it is';
 $string['trad7_ejemploTres'] = 'You can find this text at $a->time.';
 
 $string['trad8_Lang'] = 'en_UK.uf8';
-$string['trad8_Greeting'] =	'Welcome to the work of the translator $a->numTrad published at $a->time ';
+$string['trad8_Greeting'] =	'Welcome to the work of the translator $a->numTrad published at $a->time.';
 $string['trad8_Author'] = 'This text has been written by Fu Xiaoqiang';
 $string['trad8_FormatDate'] = 'Today is ".strftime ("%A,%d of %B of %Y ", $a->rawTime)." and the week is is about to start.';
 $string['trad8_NumString'] = 'Completing a league sticker collection costs ".number_format($a->amount,15)." euros.';
-$string['trad8_CurrencyString'] = 'Completing a league sticker collection costs  $a->amount €';
+$string['trad8_CurrencyString'] = 'Completing a league sticker collection costs $a->amount €';
 $string['trad8_Message'] = 'It could have been done by anyone, but Mr. $a->user_surname achieved it again. Hurrah $a->user_name $a->user_surname!';
 $string['Head_trad8_Credits'] = '(C)".strftime("%Y")."Fu Xiaoqiang';
 $string['Head_trad8_FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/inglesas/inglaterra.gif';
