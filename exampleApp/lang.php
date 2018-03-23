@@ -99,7 +99,7 @@ $string['trad6_ejemploTres'] = 'Today is ".strftime("%A, %d of %B, %G")."';
 
 $string['trad7_Lang'] = 'en_UK.utf8';
 $string['trad7_Greeting'] =	'Welcome to the work of the translator $a->numTrad published at $a->time';
-$string['trad7_Author'] = 'Este texto ha sido escrito por Anna Khodorenko';
+$string['trad7_Author'] = 'This text has been written by Anna Khodorenko';
 $string['trad7_FormatDate'] = 'Today is ".strftime ("%A, %d of %B of %Y ", $a->rawTime)." and the week is beginning.';
 $string['trad7_NumString'] = 'Completing a league sticker collection costs $a->amount €';
 $string['trad7_CurrencyString'] = 'Completing a league sticker collection costs  ".number_format($a->amount,2)." euros.';
