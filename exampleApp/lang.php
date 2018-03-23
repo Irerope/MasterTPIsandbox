@@ -1,4 +1,4 @@
-ï»??php
+<?php
 $string['pageTitle'] = 'Welcome to the PHP translation page';
 
 $string['trad0_Lang'] = 'en_US.utf8';
