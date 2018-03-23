@@ -119,7 +119,7 @@ $string['trad8_CurrencyString'] = 'Completing a league sticker collection costs 
 $string['trad8_Message'] = 'It could have been done by anyone, but Mr. $a->user_surname achieved it again. ¡Hurrah $a->user_name $a->user_surname!';
 $string['Head_trad8_Credits'] = '(C)".strftime("%Y")."Fu Xiaoqiang';
 $string['Head_trad8_FlagURL'] = 'http://www.banderas-del-mundo.com/Union_Europea/UK/inglesas/inglaterra.gif';
-$string['trad8_ejemploUno'] = 'Sunday, ".strftime ("%l, %F, %Y",) I will go to Supermarket';
+$string['trad8_ejemploUno'] = 'Sunday, ".strftime ("%l, %F, %Y")." I will go to Supermarket';
 $string['trad8_ejemploDos'] = 'I thinks that $a->amount € for this clothes is too expensive.';
 $string['trad8_ejemploTres'] = 'Everyday at $a->time we have classes.';
 
